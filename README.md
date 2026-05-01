@@ -31,14 +31,3 @@
 </p>
 
 <br/>
-
-<h2 align="center">About</h2>
-
-<p align="center">
-  我喜欢写点有用的小工具、折腾插件/模组、也会做一些开源贡献。<br/>
-  偏爱简洁、可维护、可复现的项目结构。
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,100:5b21b6&height=10&section=footer" width="100%"/>
-</p>
