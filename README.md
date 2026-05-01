@@ -3,7 +3,8 @@
 <p align="center">
   Minecraft player · Java / C++ enthusiast<br/>
   IntelliJ IDEA · VS Code<br/>
-  Lazy & introverted, but I love building and contributing.
+  Lazy & introverted, but I love building and contributing.<br/>
+  Bocchi the Rock! (ぼっち・ざ・ろっく！) fan.
 </p>
 
 <p align="center">
