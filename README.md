@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:6d28d9&height=160&section=header&text=Yamada-Ryo&fontColor=ffffff&fontSize=48&animation=fadeIn" />
 </p>
 
-<img align="right" width="160" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
-
 <p>
   Minecraft player · Java / C++ enthusiast<br/>
   IntelliJ IDEA · VS Code<br/>
