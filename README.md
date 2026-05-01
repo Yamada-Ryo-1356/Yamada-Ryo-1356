@@ -15,8 +15,16 @@
   Contact: <a href="mailto:3993766845@qq.com">3993766845@qq.com</a>
 </p>
 
+<!-- Alternative GitHub stats (often more stable than github-readme-stats) -->
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Yamada-Ryo-1356&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamada-Ryo-1356&layout=compact&hide_title=true&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Yamada-Ryo-1356&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yamada-Ryo-1356&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yamada-Ryo-1356&theme=tokyonight" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yamada-Ryo-1356&theme=tokyonight" />
 </p>
