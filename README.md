@@ -25,9 +25,4 @@
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yamada-Ryo-1356&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yamada-Ryo-1356&theme=tokyonight" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yamada-Ryo-1356&theme=tokyonight" />
-</p>
-
 <br/>
