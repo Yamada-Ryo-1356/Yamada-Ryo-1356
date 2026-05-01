@@ -16,6 +16,7 @@
 </p>
 
 <p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Yamada-Ryo-1356&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamada-Ryo-1356&layout=compact&hide_title=true&hide_border=true" />
 </p>
